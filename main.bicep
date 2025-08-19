@@ -63,7 +63,7 @@ param aiDeploymentsLocation string
 var solutionPrefix = 'km${padLeft(take(uniqueId, 12), 12, '0')}'
 
 
-var baseUrl = 'https://raw.githubusercontent.com/nchandhi/nctestagentbicep/main/'
+var baseUrl = 'https://raw.githubusercontent.com/nchandhi/ncagentbiceprepo/main/'
 
 
 // ========== Managed Identity ========== //
